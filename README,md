@@ -1,0 +1,30 @@
+# Proyecto Gestión Documental
+
+Este proyecto es una aplicación web para la gestión de documentos con diferentes módulos como gestión de usuarios, generación de reportes, y seguimiento de alertas.
+
+## Tecnologías Utilizadas
+
+- **Frontend**:
+  - HTML, CSS, Bootstrap
+  - JavaScript
+- **Backend**:
+  - Node.js
+  - Express.js
+  - MongoDB (Mongoose)
+
+## Características
+
+1. **Login**: Autenticación básica de usuarios.
+2. **Dashboard**: Un panel de control que enlaza los diferentes módulos.
+3. **Gestión de Usuarios**:
+   - Registrar, visualizar, y gestionar usuarios.
+4. **Generación de Reportes**:
+   - Generar reportes basados en criterios de fecha y tipo.
+5. **Seguimiento y Alertas**:
+   - Visualizar alertas relacionadas con el sistema.
+
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/usuario/proyecto-gestion-documental.git
